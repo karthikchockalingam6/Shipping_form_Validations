@@ -53,7 +53,7 @@ const defaultValues = {
   state: null,
   country: null,
   zipCode: "",
-  checkBox: false,
+  checkBox: true,
   date: null,
 };
 const RegisterForm = () => {
